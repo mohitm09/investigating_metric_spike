@@ -1,0 +1,492 @@
+week_no,device,"weekly engagement per device"
+17,"acer aspire desktop",67
+17,"acer aspire notebook",206
+17,"amazon fire phone",83
+17,"asus chromebook",251
+17,"dell inspiron desktop",187
+17,"dell inspiron notebook",503
+17,"hp pavilion desktop",132
+17,"htc one",190
+17,"ipad air",330
+17,"ipad mini",205
+17,"iphone 4s",217
+17,"iphone 5",706
+17,"iphone 5s",473
+17,"kindle fire",57
+17,"lenovo thinkpad",793
+17,"mac mini",59
+17,"macbook air",490
+17,"macbook pro",1516
+17,"nexus 10",145
+17,"nexus 5",382
+17,"nexus 7",177
+17,"nokia lumia 635",128
+17,"samsumg galaxy tablet",70
+17,"samsung galaxy note",116
+17,"samsung galaxy s4",449
+17,"windows surface",87
+18,"acer aspire desktop",295
+18,"acer aspire notebook",363
+18,"amazon fire phone",177
+18,"asus chromebook",523
+18,"dell inspiron desktop",683
+18,"dell inspiron notebook",953
+18,"hp pavilion desktop",373
+18,"htc one",174
+18,"ipad air",520
+18,"ipad mini",309
+18,"iphone 4s",448
+18,"iphone 5",1328
+18,"iphone 5s",778
+18,"kindle fire",265
+18,"lenovo thinkpad",1732
+18,"mac mini",159
+18,"macbook air",1604
+18,"macbook pro",3301
+18,"nexus 10",370
+18,"nexus 5",938
+18,"nexus 7",252
+18,"nokia lumia 635",341
+18,"samsumg galaxy tablet",79
+18,"samsung galaxy note",139
+18,"samsung galaxy s4",1130
+18,"windows surface",107
+19,"acer aspire desktop",242
+19,"acer aspire notebook",406
+19,"amazon fire phone",141
+19,"asus chromebook",268
+19,"dell inspiron desktop",444
+19,"dell inspiron notebook",1193
+19,"hp pavilion desktop",376
+19,"htc one",270
+19,"ipad air",595
+19,"ipad mini",381
+19,"iphone 4s",546
+19,"iphone 5",1190
+19,"iphone 5s",964
+19,"kindle fire",225
+19,"lenovo thinkpad",2143
+19,"mac mini",255
+19,"macbook air",1331
+19,"macbook pro",3159
+19,"nexus 10",232
+19,"nexus 5",944
+19,"nexus 7",334
+19,"nokia lumia 635",215
+19,"samsumg galaxy tablet",66
+19,"samsung galaxy note",117
+19,"samsung galaxy s4",1024
+19,"windows surface",163
+20,"acer aspire desktop",226
+20,"acer aspire notebook",483
+20,"amazon fire phone",104
+20,"asus chromebook",461
+20,"dell inspiron desktop",504
+20,"dell inspiron notebook",975
+20,"hp pavilion desktop",276
+20,"htc one",365
+20,"ipad air",611
+20,"ipad mini",264
+20,"iphone 4s",608
+20,"iphone 5",1302
+20,"iphone 5s",1024
+20,"kindle fire",242
+20,"lenovo thinkpad",2203
+20,"mac mini",272
+20,"macbook air",1443
+20,"macbook pro",3097
+20,"nexus 10",217
+20,"nexus 5",1278
+20,"nexus 7",372
+20,"nokia lumia 635",151
+20,"samsumg galaxy tablet",78
+20,"samsung galaxy note",160
+20,"samsung galaxy s4",1001
+20,"windows surface",194
+21,"acer aspire desktop",328
+21,"acer aspire notebook",462
+21,"amazon fire phone",29
+21,"asus chromebook",550
+21,"dell inspiron desktop",568
+21,"dell inspiron notebook",955
+21,"hp pavilion desktop",475
+21,"htc one",260
+21,"ipad air",428
+21,"ipad mini",280
+21,"iphone 4s",522
+21,"iphone 5",1567
+21,"iphone 5s",804
+21,"kindle fire",355
+21,"lenovo thinkpad",1893
+21,"mac mini",281
+21,"macbook air",1269
+21,"macbook pro",3044
+21,"nexus 10",258
+21,"nexus 5",1020
+21,"nexus 7",211
+21,"nokia lumia 635",190
+21,"samsumg galaxy tablet",63
+21,"samsung galaxy note",196
+21,"samsung galaxy s4",960
+21,"windows surface",183
+22,"acer aspire desktop",255
+22,"acer aspire notebook",431
+22,"amazon fire phone",46
+22,"asus chromebook",631
+22,"dell inspiron desktop",737
+22,"dell inspiron notebook",1011
+22,"hp pavilion desktop",371
+22,"htc one",323
+22,"ipad air",591
+22,"ipad mini",342
+22,"iphone 4s",477
+22,"iphone 5",1394
+22,"iphone 5s",920
+22,"kindle fire",231
+22,"lenovo thinkpad",1803
+22,"mac mini",276
+22,"macbook air",1714
+22,"macbook pro",3046
+22,"nexus 10",311
+22,"nexus 5",1231
+22,"nexus 7",433
+22,"nokia lumia 635",308
+22,"samsumg galaxy tablet",70
+22,"samsung galaxy note",252
+22,"samsung galaxy s4",1020
+22,"windows surface",189
+23,"acer aspire desktop",240
+23,"acer aspire notebook",449
+23,"amazon fire phone",181
+23,"asus chromebook",671
+23,"dell inspiron desktop",494
+23,"dell inspiron notebook",1034
+23,"hp pavilion desktop",655
+23,"htc one",234
+23,"ipad air",404
+23,"ipad mini",258
+23,"iphone 4s",459
+23,"iphone 5",1748
+23,"iphone 5s",859
+23,"kindle fire",352
+23,"lenovo thinkpad",1882
+23,"mac mini",170
+23,"macbook air",1431
+23,"macbook pro",3123
+23,"nexus 10",533
+23,"nexus 5",997
+23,"nexus 7",303
+23,"nokia lumia 635",273
+23,"samsumg galaxy tablet",98
+23,"samsung galaxy note",183
+23,"samsung galaxy s4",1094
+23,"windows surface",155
+24,"acer aspire desktop",289
+24,"acer aspire notebook",509
+24,"amazon fire phone",147
+24,"asus chromebook",471
+24,"dell inspiron desktop",713
+24,"dell inspiron notebook",1082
+24,"hp pavilion desktop",721
+24,"htc one",136
+24,"ipad air",619
+24,"ipad mini",313
+24,"iphone 4s",609
+24,"iphone 5",1475
+24,"iphone 5s",959
+24,"kindle fire",239
+24,"lenovo thinkpad",1806
+24,"mac mini",298
+24,"macbook air",1716
+24,"macbook pro",3028
+24,"nexus 10",369
+24,"nexus 5",1151
+24,"nexus 7",418
+24,"nokia lumia 635",489
+24,"samsumg galaxy tablet",101
+24,"samsung galaxy note",245
+24,"samsung galaxy s4",940
+24,"windows surface",209
+25,"acer aspire desktop",263
+25,"acer aspire notebook",605
+25,"amazon fire phone",131
+25,"asus chromebook",432
+25,"dell inspiron desktop",644
+25,"dell inspiron notebook",1209
+25,"hp pavilion desktop",588
+25,"htc one",285
+25,"ipad air",640
+25,"ipad mini",234
+25,"iphone 4s",442
+25,"iphone 5",1645
+25,"iphone 5s",963
+25,"kindle fire",209
+25,"lenovo thinkpad",2096
+25,"mac mini",230
+25,"macbook air",1269
+25,"macbook pro",2932
+25,"nexus 10",258
+25,"nexus 5",935
+25,"nexus 7",557
+25,"nokia lumia 635",446
+25,"samsumg galaxy tablet",159
+25,"samsung galaxy note",134
+25,"samsung galaxy s4",1102
+25,"windows surface",234
+26,"acer aspire desktop",313
+26,"acer aspire notebook",328
+26,"amazon fire phone",137
+26,"asus chromebook",632
+26,"dell inspiron desktop",672
+26,"dell inspiron notebook",1077
+26,"hp pavilion desktop",512
+26,"htc one",225
+26,"ipad air",580
+26,"ipad mini",464
+26,"iphone 4s",503
+26,"iphone 5",1602
+26,"iphone 5s",1026
+26,"kindle fire",254
+26,"lenovo thinkpad",2214
+26,"mac mini",140
+26,"macbook air",1489
+26,"macbook pro",3309
+26,"nexus 10",261
+26,"nexus 5",912
+26,"nexus 7",428
+26,"nokia lumia 635",456
+26,"samsumg galaxy tablet",139
+26,"samsung galaxy note",97
+26,"samsung galaxy s4",1114
+26,"windows surface",177
+27,"acer aspire desktop",296
+27,"acer aspire notebook",582
+27,"amazon fire phone",109
+27,"asus chromebook",510
+27,"dell inspiron desktop",541
+27,"dell inspiron notebook",992
+27,"hp pavilion desktop",589
+27,"htc one",225
+27,"ipad air",482
+27,"ipad mini",344
+27,"iphone 4s",720
+27,"iphone 5",1867
+27,"iphone 5s",952
+27,"kindle fire",268
+27,"lenovo thinkpad",2233
+27,"mac mini",169
+27,"macbook air",1652
+27,"macbook pro",3548
+27,"nexus 10",320
+27,"nexus 5",1015
+27,"nexus 7",366
+27,"nokia lumia 635",325
+27,"samsumg galaxy tablet",146
+27,"samsung galaxy note",131
+27,"samsung galaxy s4",1154
+27,"windows surface",345
+28,"acer aspire desktop",303
+28,"acer aspire notebook",541
+28,"amazon fire phone",51
+28,"asus chromebook",511
+28,"dell inspiron desktop",744
+28,"dell inspiron notebook",1183
+28,"hp pavilion desktop",622
+28,"htc one",318
+28,"ipad air",547
+28,"ipad mini",364
+28,"iphone 4s",783
+28,"iphone 5",1654
+28,"iphone 5s",1039
+28,"kindle fire",342
+28,"lenovo thinkpad",2564
+28,"mac mini",340
+28,"macbook air",1671
+28,"macbook pro",3461
+28,"nexus 10",261
+28,"nexus 5",946
+28,"nexus 7",342
+28,"nokia lumia 635",405
+28,"samsumg galaxy tablet",102
+28,"samsung galaxy note",118
+28,"samsung galaxy s4",1260
+28,"windows surface",304
+29,"acer aspire desktop",212
+29,"acer aspire notebook",592
+29,"amazon fire phone",92
+29,"asus chromebook",529
+29,"dell inspiron desktop",560
+29,"dell inspiron notebook",1179
+29,"hp pavilion desktop",742
+29,"htc one",227
+29,"ipad air",620
+29,"ipad mini",364
+29,"iphone 4s",605
+29,"iphone 5",1593
+29,"iphone 5s",932
+29,"kindle fire",293
+29,"lenovo thinkpad",2438
+29,"mac mini",342
+29,"macbook air",1691
+29,"macbook pro",3155
+29,"nexus 10",272
+29,"nexus 5",793
+29,"nexus 7",392
+29,"nokia lumia 635",461
+29,"samsumg galaxy tablet",120
+29,"samsung galaxy note",141
+29,"samsung galaxy s4",1462
+29,"windows surface",260
+30,"acer aspire desktop",403
+30,"acer aspire notebook",646
+30,"amazon fire phone",170
+30,"asus chromebook",565
+30,"dell inspiron desktop",685
+30,"dell inspiron notebook",1488
+30,"hp pavilion desktop",466
+30,"htc one",306
+30,"ipad air",656
+30,"ipad mini",373
+30,"iphone 4s",740
+30,"iphone 5",1535
+30,"iphone 5s",1164
+30,"kindle fire",234
+30,"lenovo thinkpad",2584
+30,"mac mini",316
+30,"macbook air",1731
+30,"macbook pro",3578
+30,"nexus 10",282
+30,"nexus 5",983
+30,"nexus 7",629
+30,"nokia lumia 635",333
+30,"samsumg galaxy tablet",137
+30,"samsung galaxy note",156
+30,"samsung galaxy s4",1203
+30,"windows surface",170
+31,"acer aspire desktop",383
+31,"acer aspire notebook",554
+31,"amazon fire phone",157
+31,"asus chromebook",636
+31,"dell inspiron desktop",465
+31,"dell inspiron notebook",1242
+31,"hp pavilion desktop",601
+31,"htc one",117
+31,"ipad air",573
+31,"ipad mini",240
+31,"iphone 4s",631
+31,"iphone 5",1491
+31,"iphone 5s",663
+31,"kindle fire",136
+31,"lenovo thinkpad",2114
+31,"mac mini",232
+31,"macbook air",1574
+31,"macbook pro",3608
+31,"nexus 10",274
+31,"nexus 5",684
+31,"nexus 7",407
+31,"nokia lumia 635",298
+31,"samsumg galaxy tablet",80
+31,"samsung galaxy note",112
+31,"samsung galaxy s4",1068
+31,"windows surface",216
+32,"acer aspire desktop",354
+32,"acer aspire notebook",580
+32,"amazon fire phone",161
+32,"asus chromebook",611
+32,"dell inspiron desktop",519
+32,"dell inspiron notebook",1229
+32,"hp pavilion desktop",549
+32,"htc one",146
+32,"ipad air",463
+32,"ipad mini",257
+32,"iphone 4s",318
+32,"iphone 5",1301
+32,"iphone 5s",775
+32,"kindle fire",67
+32,"lenovo thinkpad",1898
+32,"mac mini",120
+32,"macbook air",1265
+32,"macbook pro",3320
+32,"nexus 10",318
+32,"nexus 5",678
+32,"nexus 7",235
+32,"nokia lumia 635",357
+32,"samsumg galaxy tablet",77
+32,"samsung galaxy note",116
+32,"samsung galaxy s4",812
+32,"windows surface",86
+33,"acer aspire desktop",363
+33,"acer aspire notebook",498
+33,"amazon fire phone",114
+33,"asus chromebook",581
+33,"dell inspiron desktop",408
+33,"dell inspiron notebook",1011
+33,"hp pavilion desktop",379
+33,"htc one",138
+33,"ipad air",376
+33,"ipad mini",260
+33,"iphone 4s",349
+33,"iphone 5",1203
+33,"iphone 5s",712
+33,"kindle fire",120
+33,"lenovo thinkpad",2156
+33,"mac mini",331
+33,"macbook air",1622
+33,"macbook pro",3182
+33,"nexus 10",163
+33,"nexus 5",641
+33,"nexus 7",255
+33,"nokia lumia 635",215
+33,"samsumg galaxy tablet",82
+33,"samsung galaxy note",127
+33,"samsung galaxy s4",729
+33,"windows surface",130
+34,"acer aspire desktop",281
+34,"acer aspire notebook",561
+34,"amazon fire phone",106
+34,"asus chromebook",557
+34,"dell inspiron desktop",465
+34,"dell inspiron notebook",1088
+34,"hp pavilion desktop",351
+34,"htc one",271
+34,"ipad air",306
+34,"ipad mini",252
+34,"iphone 4s",472
+34,"iphone 5",966
+34,"iphone 5s",715
+34,"kindle fire",119
+34,"lenovo thinkpad",1908
+34,"mac mini",395
+34,"macbook air",1456
+34,"macbook pro",3141
+34,"nexus 10",208
+34,"nexus 5",770
+34,"nexus 7",328
+34,"nokia lumia 635",151
+34,"samsumg galaxy tablet",119
+34,"samsung galaxy note",96
+34,"samsung galaxy s4",885
+34,"windows surface",160
+35,"acer aspire desktop",7
+35,"acer aspire notebook",28
+35,"asus chromebook",38
+35,"dell inspiron desktop",4
+35,"dell inspiron notebook",66
+35,"hp pavilion desktop",10
+35,"htc one",18
+35,"ipad mini",21
+35,"iphone 4s",57
+35,"iphone 5",9
+35,"iphone 5s",22
+35,"kindle fire",32
+35,"lenovo thinkpad",123
+35,"mac mini",25
+35,"macbook air",64
+35,"macbook pro",122
+35,"nexus 10",15
+35,"nexus 5",34
+35,"nexus 7",17
+35,"nokia lumia 635",7
+35,"samsung galaxy note",6
+35,"samsung galaxy s4",29
+35,"windows surface",30
